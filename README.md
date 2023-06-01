@@ -1,8 +1,21 @@
-### MSc Artificial Intelligence, Vrije Univeristy Amsterdam
+# Hello, World! :wave:
 
-Bilkent University Electrical and Electronics Engineer 
+
+I'm Doruk, an Electrical and Electronics Engineer from Bilkent University, Turkey, currently pursuing my MSc in Artificial Intelligence at Vrije University Amsterdam. :mortar_board: :computer:
+
 
 Trying some ordinary things to make a robot get you a couple of beers from the fridge at all :D
+
+## :mailbox: Contact Me
+Feel free to reach out to me with any questions, suggestions, or just to chat about AI and robotics. You can find me:
+- doruktarhan@gmail.com
+- https://www.linkedin.com/in/doruk-tarhan-28285b173/
+- Instagram: doruktarhan
+
+
+
+
+
 
 <!--
 **doruktarhan/doruktarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
