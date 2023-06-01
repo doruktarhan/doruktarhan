@@ -2,7 +2,7 @@
 
 Bilkent University Electrical and Electronics Engineer 
 
-Trying some ordinary things to make a robot get you 2 couple of beers from the fridge at all :D
+Trying some ordinary things to make a robot get you a couple of beers from the fridge at all :D
 
 <!--
 **doruktarhan/doruktarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
