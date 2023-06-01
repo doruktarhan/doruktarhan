@@ -1,5 +1,7 @@
 ### MSc Artificial Intelligence, Vrije Univeristy Amsterdam
 
+Bilkent University Electrical and Electronics Engineer 
+
 Trying some ordinary things to make a robot get you 2 couple of beers from the fridge at all :D
 
 <!--
